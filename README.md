@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on improving Portfolio.<br>🌱  I’m currently learning SvelteKit.<br>👨‍💻  How to reach me leporace.amandine@gmail.com.<br>📄  
+🔭  I’m currently working on improving Portfolio.<br>🌱  I’m currently learning SvelteKit.<br>👨‍💻  How to reach me leporace.amandine@gmail.com.<br>
 
 
 ## 🌐 Socials:
