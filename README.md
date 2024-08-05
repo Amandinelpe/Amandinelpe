@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on improving Portfolio.<br>🌱  I’m currently learning SvelteKit.<br>👨‍💻  All of my projects are available at https://portfolio-amandine-leporace.netlify.app/<br>📫  How to reach me leporace.amandine@gmail.com.<br>📄  Know about my experiences https://portfolio-amandine-leporace.netlify.app/static/media/CV.42c782e9a684cdcb15d7.pdf
+🔭  I’m currently working on improving Portfolio.<br>🌱  I’m currently learning SvelteKit.<br>👨‍💻  How to reach me leporace.amandine@gmail.com.<br>📄  
 
 
 ## 🌐 Socials:
